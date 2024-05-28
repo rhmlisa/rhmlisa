@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a QA Engineer**
+ 🔭 Exploring web and API automation testing with passion**
  
- 🌱 **Manual and Automation**
+ 🌱 **Driving innovation and efficiency through automated testing frameworks**
 
 💬 Ask me about **Java, Web and API Testing, Firebase... or anything**
 
